@@ -1,0 +1,106 @@
+<language>
+  <phrase key="back" text="Назад" />
+  <phrase key="berrystore" text="Берри Стор" />
+  <phrase key="buy" text="Купить" />
+  <phrase key="buynow" text="КУПИТЬ" />
+  <phrase key="cancel" text="Отмена" />
+  <phrase key="continue" text="Продолжить" />
+  <phrase key="doyoulikeit" text="Тебе нравится?" />
+  <phrase key="extramovesdescription" text="+5 ходов&#xA;прямо сейчас!" />
+  <phrase key="extratimedescription" text="+15 секунд&#xA;прямо сейчас!" />
+  <phrase key="full" text="Макс." />
+  <phrase key="item_bombs_description" text="Напоняет уровень дополнительными бомбами" />
+  <phrase key="item_bombs_name" text="Бомбы" />
+  <phrase key="item_finger_description" text="Нажми на ягоду, чтобы превратить ее в бомбу" />
+  <phrase key="item_finger_name" text="Магический Палец" />
+  <phrase key="item_hand_description" text="Поменяй местами две ягодки, не потратив на это ход." />
+  <phrase key="item_hand_name" text="Волшебная Рука" />
+  <phrase key="item_ladybird_description" text="Наполняет уровень Божьими Коровками" />
+  <phrase key="item_ladybird_name" text="Божья Коровка" />
+  <phrase key="item_life_description" text="Тебе нужна жизнь, чтобы начать уровень" />
+  <phrase key="item_life_name" text="Жизнь" />
+  <phrase key="item_move_description" text="+5 дополнительных ходов" />
+  <phrase key="item_move_name" text="Дополнительные Ходы" />
+  <phrase key="item_rainbow_description" text="Наполняет уровень радужными бомбами" />
+  <phrase key="item_rainbow_name" text="Радуга" />
+  <phrase key="item_seed_description" text="Местная валюта" />
+  <phrase key="item_seed_name" text="Семки" />
+  <phrase key="item_shaker_description" text="Перемешивает все ягоды на поле" />
+  <phrase key="item_shaker_name" text="Шейкер" />
+  <phrase key="item_spin_description" text="Позволяет один раз сыграть в Колесо Удачи бесплатно" />
+  <phrase key="item_spin_name" text="Игра в Колесо Удачи" />
+  <phrase key="item_spoon_description" text="Нажми на ягоду, чтобы убрать ее с поля" />
+  <phrase key="item_spoon_name" text="Ложка" />
+  <phrase key="item_time_description" text="+15 дополнительных секунд" />
+  <phrase key="item_time_name" text="Дополнительное Время" />
+  <phrase key="language" text="Язык" />
+  <phrase key="lastreward" text="Я выиграл &quot;{0}&quot;" />
+  <phrase key="later" text="Позже" />
+  <phrase key="levelN" text="Уровень {0}" />
+  <phrase key="limitationdescription_Moves" text="У тебя есть всего {0} ходов для этого." />
+  <phrase key="limitationdescription_Time" text="Успей! У тебя  всего всего {0} на этого." />
+  <phrase key="map" text="Карта" />
+  <phrase key="moves" text="Ходы" />
+  <phrase key="musicvolume" text="Музыка" />
+  <phrase key="next" text="Далее" />
+  <phrase key="no" text="Нет" />
+  <phrase key="nomorelifes" text="Жизни Кончились!" />
+  <phrase key="nomoremoves" text="Ходы Кончились!" />
+  <phrase key="nomoretime" text="Время Кончилось!" />
+  <phrase key="notenoughlifesdescription" text="Ты получишь новую жизнь через" />
+  <phrase key="onespincost" text="Цена одной игры {0}" />
+  <phrase key="onespinfree" text="Каждый день одна бесплатная игра" />
+  <phrase key="pack_bombs" text="10 наборов бомб" />
+  <phrase key="pack_finger" text="10 магичеких касаний" />
+  <phrase key="pack_hand" text="10 свободных ходов" />
+  <phrase key="pack_ladybird" text="5 наборов божьих коровок" />
+  <phrase key="pack_life" text="5 дополнительных жизней" />
+  <phrase key="pack_move" text="5 увеличений кол-ва ходов" />
+  <phrase key="pack_rainbow" text="5 наборов радужных бомб" />
+  <phrase key="pack_seed10" text="10 семечек" />
+  <phrase key="pack_seed1000" text="1000 семечек" />
+  <phrase key="pack_seed200" text="200 семечек" />
+  <phrase key="pack_seed35" text="35 семечек" />
+  <phrase key="pack_shaker" text="10 шейкеров" />
+  <phrase key="pack_spin" text="Одна игра в Колесо Удачи" />
+  <phrase key="pack_spoon" text="10 ложек" />
+  <phrase key="pack_time" text="5 увеличителей времени" />
+  <phrase key="pause" text="Пауза" />
+  <phrase key="play" text="Старт" />
+  <phrase key="quit" text="Выход" />
+  <phrase key="rateit" text="Оценить" />
+  <phrase key="rateitdescription" text="Если тебе нравится эта игра, не мог бы ты уделить минуту, чтобы оценить ее? Это поможет сделать ее еще лучше!" />
+  <phrase key="settings" text="Настройки" />
+  <phrase key="sfxvolume" text="SFX" />
+  <phrase key="skip" text="Пропуск" />
+  <phrase key="spin" text="Толкни" />
+  <phrase key="stop" text="Стоп" />
+  <phrase key="store" text="Магазин" />
+  <phrase key="taponscreentocontinue" text="Нажми, чтобы продолжить..." />
+  <phrase key="target" text="Цель" />
+  <phrase key="targetdescription_Block" text="Уничтожь {0} блок(ов), чтобы пройти этот уровень." />
+  <phrase key="targetdescription_Color" text="Собери коллекцию ягод, чтобы пройти уровень." />
+  <phrase key="targetdescription_Jam" text="Заполни уровень джемом, чтобы пройти его." />
+  <phrase key="targetdescription_Jelly" text="Уничтожь {0} желе, чтобы пройти этот уровень." />
+  <phrase key="targetdescription_None" text="Набери {0} очков получи одну звезду, чтобы пройти этот уровень." />
+  <phrase key="targetdescription_SugarDrop" text="Сбрось {0} сахара, чтобы пройти уровень." />
+  <phrase key="targetisreached" text="Цель достигнута!" />
+  <phrase key="targetmodename_Block" text="Блоки" />
+  <phrase key="targetmodename_Color" text="Коллекция" />
+  <phrase key="targetmodename_Jam" text="Джем" />
+  <phrase key="targetmodename_Jelly" text="Желе" />
+  <phrase key="targetmodename_None" text="Получи Звезду" />
+  <phrase key="targetmodename_SugarDrop" text="Кусочки Сахара" />
+  <phrase key="targetscore" text="Нужно набрать" />
+  <phrase key="timer" text="Время" />
+  <phrase key="use" text="Взять" />
+  <phrase key="wheeloffortune" text="Колесо Удачи" />
+  <phrase key="yes" text="Да" />
+  <phrase key="youlose" text="Неудача" />
+  <phrase key="yourbestscore" text="Твой лучший счет" />
+  <phrase key="yourreward" text="Твоя награда" />
+  <phrase key="yourscore" text="Твой счет" />
+  <phrase key="youwin" text="Победа" />
+  <phrase key="close" text="Закрыть" />
+  <phrase key="retry" text="Повторить" />
+</language>

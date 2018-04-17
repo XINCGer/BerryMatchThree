@@ -1,0 +1,106 @@
+<language>
+  <phrase key="back" text="Back" />
+  <phrase key="berrystore" text="Berry Store" />
+  <phrase key="buy" text="Buy" />
+  <phrase key="buynow" text="Buy Now" />
+  <phrase key="cancel" text="Cancel" />
+  <phrase key="close" text="Close" />
+  <phrase key="continue" text="Continue" />
+  <phrase key="doyoulikeit" text="Do you like it?" />
+  <phrase key="extramovesdescription" text="+5 Extra Moves&#xA;right now!" />
+  <phrase key="extratimedescription" text="+15 Extra Seconds&#xA;right now!" />
+  <phrase key="full" text="Full" />
+  <phrase key="item_bombs_description" text="Play level with more berry bombs!" />
+  <phrase key="item_bombs_name" text="Bombs" />
+  <phrase key="item_finger_description" text="Press on berry to make it a random berry bomb!" />
+  <phrase key="item_finger_name" text="Magic Finger" />
+  <phrase key="item_hand_description" text="Switch two berries" />
+  <phrase key="item_hand_name" text="Magic Hand" />
+  <phrase key="item_ladybird_description" text="Play level with more ladybirds!" />
+  <phrase key="item_ladybird_name" text="Ladybird" />
+  <phrase key="item_life_description" text="You need a life for starting level" />
+  <phrase key="item_life_name" text="Life" />
+  <phrase key="item_move_description" text="+5 Extra moves" />
+  <phrase key="item_move_name" text="Extra Moves" />
+  <phrase key="item_rainbow_description" text="Play level with more rainbow heart bombs!" />
+  <phrase key="item_rainbow_name" text="Rainbow" />
+  <phrase key="item_seed_description" text="Local Сurrency" />
+  <phrase key="item_seed_name" text="Seed" />
+  <phrase key="item_shaker_description" text="Will shuffle all the berry on the board!" />
+  <phrase key="item_shaker_name" text="Sharer" />
+  <phrase key="item_spin_description" text="One play in Wheel of Fortune for free" />
+  <phrase key="item_spin_name" text="Spin" />
+  <phrase key="item_spoon_description" text="Press on berry to destroy!" />
+  <phrase key="item_spoon_name" text="Spoon" />
+  <phrase key="item_time_description" text="+5 Extra time" />
+  <phrase key="item_time_name" text="Extra Time" />
+  <phrase key="language" text="Language" />
+  <phrase key="lastreward" text="I received an award: &quot;{0}&quot;" />
+  <phrase key="later" text="Later" />
+  <phrase key="levelN" text="Level {0}" />
+  <phrase key="limitationdescription_Moves" text="You have only {0} moves to accomplish this." />
+  <phrase key="limitationdescription_Time" text="You have only {0} of time to accomplish this." />
+  <phrase key="map" text="Map" />
+  <phrase key="moves" text="Moves" />
+  <phrase key="musicvolume" text="Music volume" />
+  <phrase key="next" text="Next" />
+  <phrase key="no" text="No" />
+  <phrase key="nomorelifes" text="No More Lifes!" />
+  <phrase key="nomoremoves" text="No More Moves!" />
+  <phrase key="nomoretime" text="No More Time!" />
+  <phrase key="notenoughlifesdescription" text="You will receive a new life in" />
+  <phrase key="onespincost" text="One spin cost is {0}" />
+  <phrase key="onespinfree" text="One free spin every day" />
+  <phrase key="pack_bombs" text="10 bomb boosters" />
+  <phrase key="pack_finger" text="10 magic fingers" />
+  <phrase key="pack_hand" text="10 hand boosters" />
+  <phrase key="pack_ladybird" text="5 ladybird boosters" />
+  <phrase key="pack_life" text="5 extra lifes pack" />
+  <phrase key="pack_move" text="5 extra moves boosters" />
+  <phrase key="pack_rainbow" text="5 rainbow boosters" />
+  <phrase key="pack_seed10" text="10 seeds pack" />
+  <phrase key="pack_seed1000" text="1000 seeds pack" />
+  <phrase key="pack_seed200" text="200 seeds pack" />
+  <phrase key="pack_seed35" text="35 seeds pack" />
+  <phrase key="pack_shaker" text="10 shaker boosters" />
+  <phrase key="pack_spin" text="One spin of wheel" />
+  <phrase key="pack_spoon" text="10 spoon boosters" />
+  <phrase key="pack_time" text="5 extra time boosters" />
+  <phrase key="pause" text="Pause" />
+  <phrase key="play" text="Play" />
+  <phrase key="quit" text="Quit" />
+  <phrase key="rateit" text="Rate&#xA;it" />
+  <phrase key="rateitdescription" text="If you enjoy play this game, would you mind taking a moment to rate it? It won't take more than a minute. Thanks for your support!" />
+  <phrase key="settings" text="Settings" />
+  <phrase key="sfxvolume" text="SFX" />
+  <phrase key="skip" text="Skip" />
+  <phrase key="spin" text="Spin" />
+  <phrase key="stop" text="Stop" />
+  <phrase key="store" text="Store" />
+  <phrase key="taponscreentocontinue" text="Tap on screen to continue..." />
+  <phrase key="target" text="Target" />
+  <phrase key="targetdescription_Block" text="You need to destroy {0} blocks in this level." />
+  <phrase key="targetdescription_Color" text="You need to destroy a certain number of chips of a certain color." />
+  <phrase key="targetdescription_Jam" text="You need to fill the level by jam." />
+  <phrase key="targetdescription_Jelly" text="You need to destroy {0} jellies in this level." />
+  <phrase key="targetdescription_None" text="You need to reach {0} points a take one star." />
+  <phrase key="targetdescription_SugarDrop" text="You need to drop all sugar chips." />
+  <phrase key="targetisreached" text="Target is reached!" />
+  <phrase key="targetmodename_Block" text="Blocks" />
+  <phrase key="targetmodename_Color" text="Color Collection" />
+  <phrase key="targetmodename_Jam" text="Jam" />
+  <phrase key="targetmodename_Jelly" text="Jellies" />
+  <phrase key="targetmodename_None" text="Take a Star" />
+  <phrase key="targetmodename_SugarDrop" text="Sugar Drop" />
+  <phrase key="targetscore" text="Target score" />
+  <phrase key="timer" text="Timer" />
+  <phrase key="use" text="Use" />
+  <phrase key="wheeloffortune" text="Wheel of Fortune" />
+  <phrase key="yes" text="No" />
+  <phrase key="youlose" text="You Lose" />
+  <phrase key="yourbestscore" text="Your Best Score" />
+  <phrase key="yourreward" text="Your reward" />
+  <phrase key="yourscore" text="Your Score" />
+  <phrase key="youwin" text="You Win" />
+  <phrase key="retry" text="Retry" />
+</language>

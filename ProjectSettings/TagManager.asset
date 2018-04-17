@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - LevelButton
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Particle
+  - Slot
+  - Map
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 3936547037
+    locked: 0
+  - name: Slots
+    uniqueID: 416372931
+    locked: 0
+  - name: Chips
+    uniqueID: 1966917811
+    locked: 0
+  - name: SlotFront
+    uniqueID: 1830733791
+    locked: 0
+  - name: Foreground
+    uniqueID: 2308369789
+    locked: 0
+  - name: Map
+    uniqueID: 4256255607
+    locked: 0
+  - name: UI
+    uniqueID: 3814720771
+    locked: 0

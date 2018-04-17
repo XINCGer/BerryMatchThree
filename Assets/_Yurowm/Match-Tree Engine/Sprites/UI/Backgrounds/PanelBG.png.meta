@@ -1,0 +1,115 @@
+fileFormatVersion: 2
+guid: cc0ea1602dfa8004c99ac9d0c785dc67
+timeCreated: 1449762231
+licenseType: Store
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: PanelPG_Top
+    21300002: PanelPG_Bottom
+    21300004: PanelPG
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 27, y: 27, z: 27, w: 27}
+  spritePixelsToUnits: 300
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: PanelPG_Top
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 66
+        width: 190
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 27, y: 27, z: 27, w: 27}
+      outline:
+      - - {x: -88, y: 29}
+        - {x: -93, y: 23}
+        - {x: -95, y: 20}
+        - {x: -95, y: -29}
+        - {x: 95, y: -29}
+        - {x: 95, y: 22}
+        - {x: 92, y: 29}
+    - name: PanelPG_Bottom
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 190
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 27, y: 27, z: 27, w: 0}
+      outline:
+      - - {x: -95, y: 33}
+        - {x: -95, y: -24}
+        - {x: -91, y: -33}
+        - {x: 89, y: -33}
+        - {x: 95, y: -25}
+        - {x: 95, y: 33}
+    - name: PanelPG
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 190
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 27, y: 27, z: 27, w: 27}
+      outline:
+      - - {x: -86, y: 62}
+        - {x: -95, y: 58}
+        - {x: -95, y: -55}
+        - {x: -89, y: -60}
+        - {x: -86, y: -62}
+        - {x: 86, y: -62}
+        - {x: 95, y: -58}
+        - {x: 95, y: 57}
+        - {x: 88, y: 62}
+    outline: []
+  spritePackingTag: UI
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

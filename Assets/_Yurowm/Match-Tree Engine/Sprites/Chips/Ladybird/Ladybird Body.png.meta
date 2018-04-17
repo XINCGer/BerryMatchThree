@@ -1,0 +1,88 @@
+fileFormatVersion: 2
+guid: f5574374f213c314386557d79da9c9cc
+timeCreated: 1450612271
+licenseType: Store
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Ladybird Body
+    21300002: Ladybird Body Wing Left
+    21300004: Ladybird Body Wing Right
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 190
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Ladybird Body
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 129
+        height: 128
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ladybird Body Wing Left
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 46
+        width: 37
+        height: 77
+      alignment: 9
+      pivot: {x: .821710944, y: .967360377}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ladybird Body Wing Right
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 46
+        width: 37
+        height: 77
+      alignment: 9
+      pivot: {x: .14836286, y: .963765204}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
