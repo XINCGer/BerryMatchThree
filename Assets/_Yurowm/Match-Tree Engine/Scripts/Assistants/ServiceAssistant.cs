@@ -86,24 +86,9 @@ public class ServiceAssistant : MonoBehaviour {
     public static string GetAppLink(bool native = true) {
         return GetAppLink(Application.platform, native);
     }
-    public static string GetAppLink(RuntimePlatform platform, bool native = true) {
-        if (native)
-            switch (platform) {
-                case RuntimePlatform.Android:
-                    return "market://details?id=" + Application.identifier;
-                
-                case RuntimePlatform.IPhonePlayer:
-                    return "itms-apps://itunes.apple.com/app/id" + ProjectParameters.main.ios_AppID;
-            }
-
-        switch (platform) {
-            case RuntimePlatform.Android:
-                return "https://play.google.com/store/apps/details?id=" + Application.identifier;
-            case RuntimePlatform.IPhonePlayer:
-                return "https://itunes.apple.com/es/app/candy-crush-jelly-saga/id" + ProjectParameters.main.ios_AppID;
-            default:
-                return "http://u3d.as/c3R";
-        }
+    public static string GetAppLink(RuntimePlatform platform, bool native = true)
+    {
+        return "";
     }
 
     public void Quit() {
