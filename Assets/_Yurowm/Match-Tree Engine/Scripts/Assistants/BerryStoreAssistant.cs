@@ -39,16 +39,7 @@ public class BerryStoreAssistant : MonoBehaviour, IStoreListener, INeedLocalizat
 
     void InitializePurchasing() {
         if (IsInitialized())
-            return;
-
-        ConfigurationBuilder builder = ConfigurationBuilder.Instance(StandardPurchasingModule.Instance());
-
-        foreach (IAP iap in iaps)
-            builder.AddProduct(iap.id, ProductType.Consumable, new IDs() {
-                { iap.sku, AppleAppStore.Name},
-                { iap.sku, GooglePlay.Name}});
-
-        UnityPurchasing.Initialize(this, builder);        
+            return;      
     }
 
     bool IsInitialized() {
